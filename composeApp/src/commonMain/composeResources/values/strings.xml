@@ -1993,6 +1993,8 @@
     <string name="library_sort_added_desc">Recently Added</string>
     <string name="library_sort_released_asc">Oldest Released</string>
     <string name="library_sort_released_desc">Recently Released</string>
+    <string name="library_sort_runtime_asc">Shortest Runtime</string>
+    <string name="library_sort_runtime_desc">Longest Runtime</string>
     <string name="library_sort_title_asc">Title A–Z</string>
     <string name="library_status_watching">Watching</string>
     <string name="library_status_plan_to_watch">Plan to Watch</string>
